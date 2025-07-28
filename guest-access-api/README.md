@@ -19,8 +19,9 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 
+
+
+
 ## Disclaimer
 
 This demo uses anonymized sample data and is inspired by a real system deployed under NDA.
-# Computer Programmer – Student Job Portfolio (Fall 2025)
-

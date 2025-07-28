@@ -1,0 +1,16 @@
+{
+  "guests": [
+    {
+      "code": "QR123",
+      "name": "John Doe",
+      "event": "State Ceremony",
+      "status": "confirmed"
+    },
+    {
+      "code": "QR456",
+      "name": "Jane Smith",
+      "event": "Press Conference",
+      "status": "pending"
+    }
+  ]
+}
