@@ -1,6 +1,6 @@
 # Computer Programmer – Student Job Portfolio (Fall 2025)
 
-This repository showcases selected software projects developed to support my application for the **Computer Programmer – Student Job** at **LawnSavers Plant Health Care Inc.**
+This repository showcases selected software projects developed to support my application for the **Computer Programmer – Student Job**.
 
 ##  Included Projects
 
